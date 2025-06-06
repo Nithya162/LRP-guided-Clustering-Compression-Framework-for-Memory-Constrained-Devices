@@ -1,0 +1,15 @@
+COMPRESSION SUMMARY
+==================================================
+Original parameters: 576,810
+Compressed parameters: 403,032
+Compression ratio: 69.9%
+Space saved: 30.1%
+Test accuracy: 10.32%
+
+Layer-wise compression:
+fc1: 784×512 (unchanged)
+fc2: 512×256 → 512×2
+fc3: 256×128 → 2×6
+fc4: 128×64 → 6×4
+fc5: 64×32 → 4×2
+fc6: 32×10 → 2×10

@@ -1,0 +1,15 @@
+layer,cluster,rep_type,rep_idx,#members
+fc2,0,synthetic,,64
+fc2,1,synthetic,,192
+fc3,0,synthetic,,33
+fc3,1,synthetic,,33
+fc3,2,synthetic,,22
+fc3,3,synthetic,,22
+fc3,4,synthetic,,11
+fc3,5,synthetic,,7
+fc4,0,synthetic,,10
+fc4,1,synthetic,,31
+fc4,2,synthetic,,16
+fc4,3,synthetic,,7
+fc5,0,synthetic,,18
+fc5,1,synthetic,,14
